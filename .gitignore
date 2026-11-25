@@ -1,0 +1,5 @@
+node_modules/
+*.log
+.DS_Store
+strix_runs/
+rapport-*.md
